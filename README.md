@@ -16,3 +16,5 @@
   实例化研究生类时，可采用运行时通过main方法的参数args一次性赋值，
   也可采用Scanner类实现运行时交互式输入。
   根据输入情况，要在程序中做异常处理。
+## 实验截图
+![image](https://github.com/kuai364354200/JAVA_NO.4/blob/main/QQ%E5%9B%BE%E7%89%8720201209121923.png)
